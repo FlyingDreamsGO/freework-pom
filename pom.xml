@@ -20,6 +20,7 @@
 
 
     <properties>
+        <jdk.version>1.8</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- 对于直接集成该pom的工程，路径为当前工程目录；对于间接继承（有自己的pom），路径为自己pom工程的根目录 -->
         <beauty.version.spring>4.3.7.RELEASE</beauty.version.spring>
